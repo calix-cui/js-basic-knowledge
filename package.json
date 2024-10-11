@@ -1,0 +1,15 @@
+{
+  "name": "js-basic-knowledge",
+  "version": "1.0.0",
+  "description": "<!--  * @Author: cuixiang cuixiang405@gmail.com  * @Date: 2024-01-07 19:01:22  * @FilePath: /js-basic-knowledge/README.md  * @Description:  --> # Original intention",
+  "main": "cloneDeep.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
